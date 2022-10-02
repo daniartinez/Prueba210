@@ -1,0 +1,55 @@
+.navbar-brand img
+{
+width: 100px;
+}
+
+#tickets
+{
+color: green;
+}
+
+.carousel-item
+{
+filter:brightness(50%)
+}
+
+h6
+{
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+}
+
+
+
+
+
+
+#img-float
+{
+    float: left;
+    flex: 50%;
+    padding-right: 15px;
+}
+
+
+
+.navbar
+{
+    background-color: #1f506e;
+    height: 100px;
+    display: inline;
+}
+
+#anotate
+{
+    text-align: center;
+}
+
+#boton
+{
+    background-color: #96c93e;
+}
